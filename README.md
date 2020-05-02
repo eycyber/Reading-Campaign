@@ -41,6 +41,6 @@ List of Articles as part of cyber reading campaign
 ### Wordcloud
 
 
-![alt text](  * https://github.com/eycyber/Reading-Campaign/blob/master/images/00-latest.png "Latest wordcloud from articles")
+![alt text](https://github.com/eycyber/Reading-Campaign/blob/master/images/00-latest.png "Latest wordcloud from articles")
 
 
