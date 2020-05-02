@@ -1,6 +1,6 @@
 # Cyber Reading Campaign
 
-List of Articles as part of cyber reading campaign
+List of articles shared as part of daily reading campaign
 
 ### URLs list
 
