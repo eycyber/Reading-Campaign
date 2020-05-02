@@ -4,7 +4,6 @@ List of Articles as part of cyber reading campaign
 
 ### URLs list
 
-```
   * [https://www.us-cert.gov/ncas/alerts/aa20-106a](https://www.us-cert.gov/ncas/alerts/aa20-106a)
   * https://medium.com/@woj_ciech/fun-with-amazon-s3-leaks-and-bucket-takeover-attack-ddb17da1c431
   * https://securelist.com/wildpressure-targets-industrial-in-the-middle-east/96360/
@@ -37,7 +36,6 @@ List of Articles as part of cyber reading campaign
   * https://blog.pwn.al/security/apt34/malware/poisonfrog/vulnerability/2019/05/31/apt-34-poisonfrog-vulnerability.html
   * https://www.rack911labs.com/research/exploiting-almost-every-antivirus-software/
 
-```
 
 
 ### Wordcloud
