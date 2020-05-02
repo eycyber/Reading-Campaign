@@ -1,6 +1,14 @@
 # Cyber Reading Campaign
 
-List of articles shared as part of daily reading campaign
+Wordcloud and list of articles shared as part of daily reading campaign
+
+
+### Wordcloud
+
+
+![alt text](https://github.com/eycyber/Reading-Campaign/blob/master/images/00-latest.png "Latest wordcloud from articles")
+
+
 
 ### URLs list
 
@@ -38,9 +46,5 @@ List of articles shared as part of daily reading campaign
 
 
 
-### Wordcloud
-
-
-![alt text](https://github.com/eycyber/Reading-Campaign/blob/master/images/00-latest.png "Latest wordcloud from articles")
 
 
