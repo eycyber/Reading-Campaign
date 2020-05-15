@@ -43,8 +43,13 @@ Wordcloud and list of articles shared as part of daily reading campaign
   * https://www.fireeye.com/current-threats/apt-groups.html
   * https://blog.pwn.al/security/apt34/malware/poisonfrog/vulnerability/2019/05/31/apt-34-poisonfrog-vulnerability.html
   * https://www.rack911labs.com/research/exploiting-almost-every-antivirus-software/
-
-
-
-
-
+  * https://research.checkpoint.com/2020/first-seen-in-the-wild-mobile-as-attack-vector-using-mdm/
+  * https://krebsonsecurity.com/2020/04/when-in-doubt-hang-up-look-up-call-back
+  * https://www.us-cert.gov/ncas/alerts/AA20126A
+  * https://isc.sans.edu/diary/Scanning+with+nmap%3Fs+NSE+scripts/26096
+  * https://digitalguardian.com/blog/friday-five-5/8
+  * https://www.darkreading.com/theedge/cyber-subterfuge-and-curious-sharks-threaten-the-worlds-subsea-fiber-optics-cables--/b/d-id/1337746
+  * https://www.darkreading.com/theedge/cyber-subterfuge-and-curious-sharks-threaten-the-worlds-subsea-fiber-optics-cables--/b/d-id/1337746
+  * https://blog.cobaltstrike.com/2014/04/02/what-happens-when-i-type-getsystem/
+  * https://medium.com/@robiriondo/breaking-captcha-using-machine-learning-in-0-05-seconds-9feefb997694
+  * https://www.us-cert.gov/ncas/alerts/aa20-133a
