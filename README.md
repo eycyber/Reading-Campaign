@@ -11,7 +11,7 @@ Wordcloud and list of articles shared as part of daily reading campaign
 
 
 ### URLs list
-
+```
   * [https://www.us-cert.gov/ncas/alerts/aa20-106a](https://www.us-cert.gov/ncas/alerts/aa20-106a)
   * https://medium.com/@woj_ciech/fun-with-amazon-s3-leaks-and-bucket-takeover-attack-ddb17da1c431
   * https://securelist.com/wildpressure-targets-industrial-in-the-middle-east/96360/
@@ -53,3 +53,14 @@ Wordcloud and list of articles shared as part of daily reading campaign
   * https://blog.cobaltstrike.com/2014/04/02/what-happens-when-i-type-getsystem/
   * https://medium.com/@robiriondo/breaking-captcha-using-machine-learning-in-0-05-seconds-9feefb997694
   * https://www.us-cert.gov/ncas/alerts/aa20-133a
+  * https://blog.compass-security.com/2020/05/relaying-ntlm-authentication-over-rpc
+  * https://businessinsights.bitdefender.com/hackers-steal-fraud-from-norway-state-investment-fund
+  * https://threatpost.com/microsoft-dns-over-https-windows-10/155746/
+  * https://www.darkreading.com/endpoint/is-zero-trust-the-best-answer-to-the-covid-19-lockdown/a/d-id/1337785
+  * https://www.darkreading.com/theedge/security-101-cross-site-scripting/b/d-id/1337891
+  * https://www.cyber.gov.au/threats/summary-of-tradecraft-trends-for-2019-20-tactics-techniques-and-procedures-used-to-target-australian-networks
+  * https://www.darkreading.com/edge/theedge/5-tips-for-fighting-credential-stuffing-attacks/b/d-id/1337896
+  * https://thehackernews.com/2020/05/gmail-malware-hacker.html?m=1
+  * https://www.darkreading.com/attacks-breaches/netwalker-ransomware-tools-reveal-attacker-tactics-and-techniques/d/d-id/1337929
+  * https://threatpost.com/inside-hoaxcalls-botnet-success-failure/156107/%
+```
